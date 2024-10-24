@@ -30,8 +30,33 @@ Esse projeto foi desenvolvido com base na necessidade de informar novos jogadore
 - **Frameworks/Bibliotecas**:
 - **Banco de Dados**:
 - **Ambiente de Desenvolvimento**: [VSCode e Github.]
-- **Outras Ferramentas**: [W3schools.] 
+- **Outras Ferramentas**: [W3schools.]
 
+  ## Histórico do Projeto
+| Fase              | Data          | Descrição                |
+|-------------------|------------------------------------------|
+| Início do Projeto |  11/10/2024   | Organização e Separação  |
+| Fase 1            |  11/10/2024   | Desenvolvimento          |
+| Fase 2            |  28/10/2024   | Implementação            |
+| Fase 3            |  11/11/2024   | Continuação              |
+| Finalização       |  26/11/2024   | Finalização              |
+
+
+ ## Fotos e Prints
+
+
+
+ ## Conclusão
+
+
+ ### Contado da Equipe
+
+ sarettopedro2@gmail.com
+ mattplay16@gmail.com
+ gustavorocha.hassdenteufel@gmail.com
+ lorenzoelima.2008@gmail.com
+ pedropdiniz23@gmail.com
+ 
 
 
 
